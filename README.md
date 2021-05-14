@@ -20,7 +20,7 @@ Insatll the dependancies and devDependancies and start the server.
 
 ```sh
 git clone repo
-cd covid19-stats
+cd covid-count
 npm install
 npm start
 ```
